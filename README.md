@@ -65,7 +65,6 @@
 
 ---
 
-
 Author: Ramcache
 Version: 1.1
 Date: May 2025
@@ -139,3 +138,7 @@ Excel file formats are:
 * or use Excel directly with a **VBA script** inside Excel.
 
 ---
+
+Author: Ramcache
+Version: 1.1
+Date: May 2025
