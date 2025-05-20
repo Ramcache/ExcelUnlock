@@ -1,6 +1,8 @@
-[## 📂 README — Разблокировка Excel-листов
+## 📂 README — Разблокировка Excel-листов
 
-## ⬇️ Скачать
+## [Видеоинструкция](https://dzen.ru/video/watch/682c51a7add5411b03c51b28)
+
+## ⬇️ [Скачать](https://github.com/Ramcache/ExcelUnlock/releases/download/v1.1/ExcelUnlock-v1.1.rar)
 
 [![Download](https://img.shields.io/badge/⬇️_Скачать_архив-Excel_Unlocker-blue?style=for-the-badge)](https://github.com/Ramcache/ExcelUnlock/releases/download/v1.1/ExcelUnlock-v1.1.rar)
 
@@ -65,6 +67,7 @@
 
 ---
 
+
 Author: Ramcache
 Version: 1.1
 Date: May 2025
@@ -73,7 +76,9 @@ Date: May 2025
 
 ## 📂 README — Unlock Excel Sheets
 
-## ⬇️ Download
+## [Video-instructie](https://dzen.ru/video/watch/682c51a7add5411b03c51b28)
+
+## ⬇️ [Download](https://github.com/Ramcache/ExcelUnlock/releases/download/v1.1/ExcelUnlock-v1.1.rar)
 
 [![Download](https://img.shields.io/badge/⬇️_Download_archive-Excel_Unlocker-blue?style=for-the-badge)](https://github.com/Ramcache/ExcelUnlock/releases/download/v1.1/ExcelUnlock-v1.1.rar)
 
@@ -142,4 +147,3 @@ Excel file formats are:
 Author: Ramcache
 Version: 1.1
 Date: May 2025
-](https://github.com/Ramcache/ExcelUnlock/releases)
