@@ -1,4 +1,4 @@
-## 📂 README — Разблокировка Excel-листов
+[## 📂 README — Разблокировка Excel-листов
 
 ## ⬇️ Скачать
 
@@ -142,3 +142,4 @@ Excel file formats are:
 Author: Ramcache
 Version: 1.1
 Date: May 2025
+](https://github.com/Ramcache/ExcelUnlock/releases)
